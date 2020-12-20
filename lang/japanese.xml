@@ -884,6 +884,8 @@
 		</Replace>
 		<Replace Tag="LOC_POLICY_RATIONALISM_DESCRIPTION" Language="ja_JP">
 			<Text>キャンパス内の建造物から得られる [ICON_SCIENCE] 科学力が増える。都市の [ICON_CITIZEN] 人口が15以上の場合+50%、区域が+3以上の隣接ボーナスを得ていると+50%。</Text>
+		<Replace Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION" Language="ja_JP">
+			<Text>この宗教を信奉している友好都市の国境内だと戦闘ユニットの [ICON_Strength] 戦闘力+3。</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

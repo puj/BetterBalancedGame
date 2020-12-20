@@ -1005,6 +1005,8 @@
 		</Replace>
 		<Replace Tag="LOC_POLICY_RATIONALISM_DESCRIPTION" Language="zh_Hans_CN">
 			<Text>学院中的建筑将产出额外的 [ICON_Science] 科技值：如城市 [ICON_CITIZEN] 人口大于等于15点，+50%科技值；如区域拥有至少+3相邻加成，+50%科技值。</Text>
+		<Replace Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>战斗单位处于信奉该宗教的友好城市境内时+3 [ICON_Strength] 战斗力。</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
