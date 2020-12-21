@@ -1128,6 +1128,7 @@
 			</Replace>
 			<Replace Tag="LOC_POLICY_RATIONALISM_DESCRIPTION" Language="pl_PL">
 				<Text>Premia do [ICON_Science] nauki za budowle w kampusach: +50%, jeśli [ICON_CITIZEN] populacja miasta wynosi 15 lub więcej, +50%, jeśli dzielnica ma co najmniej +3 premii za sąsiedztwo.</Text>
+			</Replace>
 			<Replace Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION" Language="pl_PL">
 				<Text>Jednostki bojowe otrzymują +3 do [ICON_Strength] siły bojowej w granicach przyjaznych miast wyznających tę religię.</Text>
 			</Replace>

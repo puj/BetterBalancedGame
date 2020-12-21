@@ -947,6 +947,7 @@
 		</Replace>
 		<Replace Tag="LOC_POLICY_RATIONALISM_DESCRIPTION" Language="pt_BR">
 			<Text>[ICON_Science] Ciência extra nas edificações dos Campi: +50% se a [ICON_CITIZEN] população da cidade for 15 ou maior, +50% se o distrito tiver pelo menos +3 de bônus de adjacência.</Text>
+		</Replace>
 		<Replace Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION" Language="pt_BR">
 			<Text>Unidades de combate ganham +3 de [ICON_Strength] força de combate dentro das fronteiras de cidades amistosas que seguem essa religião.</Text>
 		</Replace>

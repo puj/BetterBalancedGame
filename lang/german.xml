@@ -1051,6 +1051,7 @@
 		</Replace>
 		<Replace Tag="LOC_POLICY_RATIONALISM_DESCRIPTION" Language="de_DE">
 			<Text>Mehr [ICON_Science] Wissenschaft von Campus-Gebäuden: +50 %, bei 15 [ICON_CITIZEN] Stadtbevölkerung und mehr, +50 %, bei +3 Nachbarschaftsbonus und mehr.</Text>
+		</Replace>
 		<Replace Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION" Language="de_DE">
 			<Text>Kampfeinheiten erhalten +3 [ICON_Strength] Kampfstärke innerhalb der Grenzen von freundlich gesinnten Städten mit dieser Religion.</Text>
 		</Replace>

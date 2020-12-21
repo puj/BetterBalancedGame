@@ -1040,6 +1040,7 @@
 		</Row>
 		<Replace Tag="LOC_POLICY_RATIONALISM_DESCRIPTION" Language="ko_KR">
 			<Text>캠퍼스 건물에서 [ICON_Science] 과학 추가 제공: 도시 [ICON_CITIZEN] 인구가 15 이상인 경우 +50%, 특수지구가 획득하는 인접 보너스가 최소 +3 이상인 경우 +50%.</Text>
+		</Replace>
 		<Replace Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION" Language="ko_KR">
 			<Text>전투 유닛은 이 종교를 믿는 우호적인 도시 영토 내에서 [ICON_Strength] 전투력 +3을 획득합니다.</Text>
 		</Replace>

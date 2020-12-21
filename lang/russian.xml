@@ -927,6 +927,7 @@
 		</Replace> 
 		<Replace Tag="LOC_POLICY_RATIONALISM_DESCRIPTION" Language="ru_RU">
 			<Text>Дополнительная [ICON_Science] наука от зданий в кампусе: +50% при [ICON_CITIZEN] населении города не ниже 15; +50%, если бонус за соседство с районом не ниже +3.</Text>
+		</Replace>
 		<Replace Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION" Language="ru_RU">
 			<Text>Военные юниты получают +3 к [ICON_Strength] боевой мощи в пределах дружественных городов, исповедующих эту религию.</Text>
 		</Replace>
